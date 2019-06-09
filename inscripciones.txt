@@ -1,1 +1,0 @@
-El estudiante yono con cedula numero 123 se matriculo al curso Fisica, el cual tiene una duracion de 32 horas y un valor de 100000 pesos.
