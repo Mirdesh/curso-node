@@ -1,0 +1,24 @@
+{
+  "name": "manejo-archivos-node",
+  "version": "1.0.0",
+  "description": "Practia numero 2 del curso de Node del TdeA",
+  "main": "server.js",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "express": "^4.17.1",
+    "hbs": "^4.0.4",
+    "jquery": "^3.4.1",
+    "nodemon": "^1.19.1",
+    "popper.js": "^1.15.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^1.3.3",
+    "gulp": "^3.8.7",
+    "gulp-nodemon": "^1.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Duvan A. Sanchez",
+  "license": "ISC"
+}
